@@ -1,2 +1,2 @@
-# flanker-task
-Zadanie flankowe w ramach projektu zaliczeniowego z informatyki
+# PsychoPy_skeleton
+Minimal skeleton for coding own PsychoPy3 experiments. Prepared for CS classes at JU. 
